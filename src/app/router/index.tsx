@@ -1,7 +1,7 @@
-import { createBrowserRouter } from "react-router-dom";
-import { Layout } from "../layout";
-import MainPage from "@/pages/main";
-
+import { createBrowserRouter } from 'react-router-dom'
+import { Layout } from '../layout'
+import MainPage from '@/pages/main'
+import JobsPage from '@/pages/jobs'
 
 const routes = [
     {
@@ -10,13 +10,16 @@ const routes = [
         children: [
             {
                 path: '',
-                element: <MainPage />
-            }
-        ]
+                element: <MainPage />,
+            },
+            {
+                path: 'jobs',
+                element: <JobsPage />,
+            },
+        ],
     },
-];
+]
 
+const router = createBrowserRouter(routes)
 
-const router = createBrowserRouter(routes);
-
-export default router;
+export default router

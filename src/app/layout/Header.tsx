@@ -1,4 +1,4 @@
-import { Logo, ModeToggle } from '@/shared'
+import { Logo, ModeToggle } from '@/shared/ui'
 import { links } from './links'
 import { Link } from 'react-router-dom'
 
