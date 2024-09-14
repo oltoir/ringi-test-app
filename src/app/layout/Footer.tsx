@@ -2,8 +2,8 @@ import { Button, Input, Logo } from '@/shared/ui'
 
 export function Footer() {
     return (
-        <div className="border-t py-6">
-            <div className="mx-auto max-w-screen-lg flex-col items-center justify-between px-4 sm:flex-row sm:px-0 xl:max-w-screen-xl">
+        <div className="border-t py-6 pb-24 sm:pb-6">
+            <div className="mx-auto flex w-full max-w-screen-lg flex-col items-center justify-between px-4 sm:flex-row sm:px-0 xl:max-w-screen-xl">
                 <div>
                     <Logo />
                     <p className="text-md mt-4">

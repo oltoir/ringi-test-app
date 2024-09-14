@@ -1,9 +1,12 @@
 import Accent from '@assets/icons/accent.svg'
 import MainPageImage from '@assets/icons/main-page-illustration.svg'
+import { Button } from '@/shared/ui'
+import { useNavigate } from 'react-router-dom'
 
 function MainPage() {
+    const navigate = useNavigate()
     return (
-        <div className="flex min-h-screen w-full flex-col sm:justify-center">
+        <div className="mt-16 flex min-h-screen w-full flex-col sm:mt-0 sm:justify-center">
             <div className="flex w-full justify-center">
                 <div className="w-full">
                     <h1 className="text-7xl font-bold">
@@ -19,6 +22,14 @@ function MainPage() {
                         <br />
                         for new career heights and passionate about startups.
                     </p>
+                    <Button
+                        className="mt-6 w-full sm:mt-16 sm:w-2/3"
+                        variant="outline"
+                        size="lg"
+                        onClick={() => navigate('/jobs')}
+                    >
+                        Apply now!
+                    </Button>
                 </div>
                 <img
                     src={MainPageImage}
