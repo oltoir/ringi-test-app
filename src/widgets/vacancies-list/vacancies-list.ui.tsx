@@ -2,7 +2,7 @@ import { useVacanciesList } from '@/widgets/vacancies-list'
 import { VacancyCard } from '@/entiites/vacancy'
 
 export function VacanciesList() {
-    const { data, isLoading } = useVacanciesList()
+    const { data } = useVacanciesList()
     return (
         <div className="flex flex-wrap gap-5">
             {data?.map((vacancy) => (
