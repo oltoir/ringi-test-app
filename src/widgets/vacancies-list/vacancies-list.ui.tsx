@@ -459,7 +459,7 @@ export function VacanciesList() {
             },
         ],
     }
-    const { data } = useVacanciesList() || rawData
+    const { data } = useVacanciesList() || rawData.vacancies
     return (
         <div className="flex flex-wrap gap-5">
             {data?.map((vacancy) => (
