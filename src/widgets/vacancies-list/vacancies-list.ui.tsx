@@ -3,9 +3,9 @@ import { VacancyCard } from '@/entiites/vacancy'
 import { useState } from 'react'
 
 export function VacanciesList() {
-    const [page, setPage] = useState<number>(1)
+    const [page] = useState<number>(1)
     const perPage = 10
-    const { vacancies, total, isLoading } = useVacanciesList({ page, perPage })
+    const { vacancies } = useVacanciesList({ page, perPage })
 
     return (
         <div className="flex flex-wrap gap-5">
