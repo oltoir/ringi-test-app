@@ -1,5 +1,5 @@
 import { useVacanciesList } from '@/widgets/vacancies-list'
-import { VacancyCard } from '@/entiites/vacancy'
+import { VacancyCard, VacancyType } from '@/entiites/vacancy'
 
 export function VacanciesList() {
     const rawData = {
@@ -459,10 +459,12 @@ export function VacanciesList() {
             },
         ],
     }
-    const { data } = useVacanciesList() || rawData.vacancies
+    const { data } = useVacanciesList()
+
+    const newData = data?.length ? data : (rawData.vacancies as VacancyType[])
     return (
         <div className="flex flex-wrap gap-5">
-            {data?.map((vacancy) => (
+            {newData?.map((vacancy) => (
                 <VacancyCard vacancy={vacancy} key={vacancy.id} />
             ))}
         </div>
