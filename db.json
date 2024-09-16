@@ -417,5 +417,27 @@
       "skills": ["TensorFlow", "PyTorch", "Natural Language Processing"],
       "postedDate": "2024-10-29"
     }
+  ],
+  "locations": [
+    "San Francisco, CA",
+    "New York, NY",
+    "Remote",
+    "London, UK",
+    "Chicago, IL",
+    "Austin, TX",
+    "Seattle, WA",
+    "Toronto, Canada",
+    "Boston, MA",
+    "Dallas, TX",
+    "Los Angeles, CA",
+    "Miami, FL",
+    "Phoenix, AZ",
+    "Denver, CO",
+    "San Diego, CA",
+    "Houston, TX",
+    "Atlanta, GA",
+    "Washington, D.C.",
+    "Portland, OR",
+    "San Jose, CA"
   ]
 }

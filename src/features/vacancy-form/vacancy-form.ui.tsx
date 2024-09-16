@@ -1,8 +1,11 @@
 import { useForm } from 'react-hook-form'
 import { Button, Input } from '@/shared/ui'
+import { useLocations } from './vacancy-form.queries'
 
 export function VacancyForm() {
     const methods = useForm()
+
+    const { locations } = useLocations();
 
     const onSubmit = (data: any) => console.log(data)
 

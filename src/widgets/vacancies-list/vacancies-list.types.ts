@@ -1,5 +1,7 @@
 export type VacanciesListParams = {
     page: number
     perPage: number
-    location?: string
+    location?: string[]
+    type?: string | null
+    q?: string
 }

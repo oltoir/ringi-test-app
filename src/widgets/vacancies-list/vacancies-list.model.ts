@@ -5,10 +5,10 @@ import { VacanciesListParams } from '@/widgets/vacancies-list'
 export const getVacanciesList = async (
     params: VacanciesListParams
 ): Promise<PaginatedResponse<VacancyType[]>> => {
-    const { page, perPage } = params
+    const { page, perPage, ...rest } = params
     const url = `/vacancies?_page=${page}&_limit=${perPage}`
 
-    const res = await request.get(url)
+    const res = await request.get(url, {params: rest })
     const totalCount = res.headers['x-total-count']
 
     return {
