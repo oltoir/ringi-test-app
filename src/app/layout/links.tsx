@@ -2,18 +2,17 @@ import { LinkType } from './types'
 
 export const links: LinkType[] = [
     {
-        name: 'Jobs',
+        name: 'Vacancies',
         link: '/jobs',
         icon: <div></div>,
     },
     {
-        name: 'Post a Job',
-        link: '/jobs',
+        name: 'Add vacancy',
+        link: '/add-vacancy',
         icon: <div></div>,
     },
     {
         name: 'For recruiters',
-
         link: '/jobs',
         icon: <div></div>,
     },

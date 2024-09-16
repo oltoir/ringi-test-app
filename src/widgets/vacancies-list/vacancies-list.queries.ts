@@ -6,7 +6,7 @@ import {
 
 export const useVacanciesList = (params: VacanciesListParams) => {
     const { data, isLoading } = useQuery({
-        queryKey: ['vacancies'],
+        queryKey: ['vacancies', params],
         queryFn: () => getVacanciesList(params).then((res) => res),
     })
 

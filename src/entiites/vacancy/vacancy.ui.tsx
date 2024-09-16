@@ -42,7 +42,7 @@ export function VacancyCard({ vacancy }: Props) {
                 </div>
             </CardContent>
             <CardFooter>
-                <Button className="w-full">Respond</Button>
+                <Button className="w-full">Apply</Button>
             </CardFooter>
         </Card>
     )

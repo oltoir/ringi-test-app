@@ -6,8 +6,8 @@ import { useNavigate } from 'react-router-dom'
 function MainPage() {
     const navigate = useNavigate()
     return (
-        <div className="mt-16 flex min-h-screen w-full flex-col sm:mt-0 sm:justify-center">
-            <div className="flex w-full justify-center">
+        <div className="my-24 flex w-full flex-col justify-center sm:mt-0 sm:min-h-screen">
+            <div className="flex w-full items-center">
                 <div className="w-full">
                     <h1 className="text-7xl font-bold">
                         Discover

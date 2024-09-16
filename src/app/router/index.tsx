@@ -2,6 +2,7 @@ import { createBrowserRouter } from 'react-router-dom'
 import { Layout } from '../layout'
 import MainPage from '@/pages/main'
 import JobsPage from '@/pages/jobs'
+import AddVacancyPage from '@/pages/add-vacancy'
 
 const routes = [
     {
@@ -15,6 +16,10 @@ const routes = [
             {
                 path: 'jobs',
                 element: <JobsPage />,
+            },
+            {
+                path: 'add-vacancy',
+                element: <AddVacancyPage />,
             },
         ],
     },
