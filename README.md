@@ -29,4 +29,4 @@ For project structure was used [Feature Sliced Design](https://feature-sliced.de
 
 ## About project experience
 
-It was pleasure to work with [shadcn/ui](https://ui.shadcn.com/docs/) for the first time, I had challenges only with design, because I didnt want to use figma and etc and designed components while developing.
+For "Backend" I used json-server and react-query for queries.It was pleasure to work with [shadcn/ui](https://ui.shadcn.com/docs/) for the first time, I had challenges only with design, because I didnt want to use figma and etc and designed components while developing.
