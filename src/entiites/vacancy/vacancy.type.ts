@@ -15,7 +15,6 @@ export type VacancyType = {
     views: number
     skills: string[]
     postedDate: string
-    status: string
 }
 
 export type VacancyPostingType = {
