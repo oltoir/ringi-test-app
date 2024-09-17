@@ -15,4 +15,13 @@ export type VacancyType = {
     views: number
     skills: string[]
     postedDate: string
+    status: string
+}
+
+export type VacancyPostingType = {
+    id: string
+    title: string
+    company: string
+    location: string
+    status: string
 }

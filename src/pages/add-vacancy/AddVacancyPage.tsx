@@ -1,5 +1,5 @@
-import { VacancyForm } from '@/features/vacancy-form/vacancy-form.ui.tsx'
+import { AddVacancyForm } from '@/widgets'
 
 export default function AddVacancyPage() {
-    return <VacancyForm />
+    return <AddVacancyForm />
 }

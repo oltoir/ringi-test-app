@@ -1,11 +1,13 @@
-import { Button, Card, CardContent, CardFooter, CardHeader } from '@/shared/ui'
+import { Card, CardContent, CardFooter, CardHeader } from '@/shared/ui'
 import { VacancyType } from '@/entiites/vacancy'
 import { pricePrettier } from '@/shared/lib'
+import { ReactNode } from 'react'
 
 type Props = {
     vacancy: VacancyType
+    applyNode: ReactNode
 }
-export function VacancyCard({ vacancy }: Props) {
+export function VacancyCard({ vacancy, applyNode }: Props) {
     const { title, type, location, company, skills, views, salaryRange } =
         vacancy
 
@@ -41,9 +43,7 @@ export function VacancyCard({ vacancy }: Props) {
                     ))}
                 </div>
             </CardContent>
-            <CardFooter>
-                <Button className="w-full">Apply</Button>
-            </CardFooter>
+            <CardFooter>{applyNode}</CardFooter>
         </Card>
     )
 }

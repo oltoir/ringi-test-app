@@ -1,3 +1,3 @@
-import JobsPage from './ui'
+import JobsPage from './JobsPage'
 
 export default JobsPage

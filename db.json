@@ -11,7 +11,11 @@
         "max": 180000
       },
       "views": 1250,
-      "skills": ["JavaScript", "React", "Node.js"],
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ],
       "postedDate": "2024-09-01"
     },
     {
@@ -25,7 +29,11 @@
         "max": 120000
       },
       "views": 890,
-      "skills": ["Digital Marketing", "SEO", "Social Media"],
+      "skills": [
+        "Digital Marketing",
+        "SEO",
+        "Social Media"
+      ],
       "postedDate": "2024-09-03"
     },
     {
@@ -39,7 +47,11 @@
         "max": 150000
       },
       "views": 750,
-      "skills": ["Python", "Machine Learning", "SQL"],
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL"
+      ],
       "postedDate": "2024-09-05"
     },
     {
@@ -53,7 +65,11 @@
         "max": 60000
       },
       "views": 620,
-      "skills": ["Figma", "User Research", "Prototyping"],
+      "skills": [
+        "Figma",
+        "User Research",
+        "Prototyping"
+      ],
       "postedDate": "2024-09-07"
     },
     {
@@ -67,7 +83,11 @@
         "max": 95000
       },
       "views": 480,
-      "skills": ["Financial Modeling", "Excel", "PowerBI"],
+      "skills": [
+        "Financial Modeling",
+        "Excel",
+        "PowerBI"
+      ],
       "postedDate": "2024-09-09"
     },
     {
@@ -81,7 +101,11 @@
         "max": 65000
       },
       "views": 320,
-      "skills": ["Communication", "Problem Solving", "CRM Software"],
+      "skills": [
+        "Communication",
+        "Problem Solving",
+        "CRM Software"
+      ],
       "postedDate": "2024-09-11"
     },
     {
@@ -95,7 +119,11 @@
         "max": 150000
       },
       "views": 980,
-      "skills": ["Agile", "Product Strategy", "User Stories"],
+      "skills": [
+        "Agile",
+        "Product Strategy",
+        "User Stories"
+      ],
       "postedDate": "2024-09-13"
     },
     {
@@ -109,7 +137,11 @@
         "max": 160000
       },
       "views": 710,
-      "skills": ["AWS", "Docker", "Kubernetes"],
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
       "postedDate": "2024-09-15"
     },
     {
@@ -120,7 +152,11 @@
       "type": "Freelance",
       "salaryRange": null,
       "views": 290,
-      "skills": ["Copywriting", "SEO", "Content Strategy"],
+      "skills": [
+        "Copywriting",
+        "SEO",
+        "Content Strategy"
+      ],
       "postedDate": "2024-09-17"
     },
     {
@@ -134,7 +170,11 @@
         "max": 110000
       },
       "views": 540,
-      "skills": ["Recruiting", "Employee Relations", "HR Software"],
+      "skills": [
+        "Recruiting",
+        "Employee Relations",
+        "HR Software"
+      ],
       "postedDate": "2024-09-19"
     },
     {
@@ -148,7 +188,11 @@
         "max": 95000
       },
       "views": 420,
-      "skills": ["Data Analysis", "Business Process Modeling", "SQL"],
+      "skills": [
+        "Data Analysis",
+        "Business Process Modeling",
+        "SQL"
+      ],
       "postedDate": "2024-09-21"
     },
     {
@@ -162,7 +206,11 @@
         "max": 85000
       },
       "views": 380,
-      "skills": ["Adobe Creative Suite", "Typography", "Branding"],
+      "skills": [
+        "Adobe Creative Suite",
+        "Typography",
+        "Branding"
+      ],
       "postedDate": "2024-09-23"
     },
     {
@@ -176,7 +224,11 @@
         "max": 80000
       },
       "views": 290,
-      "skills": ["Negotiation", "CRM", "Cold Calling"],
+      "skills": [
+        "Negotiation",
+        "CRM",
+        "Cold Calling"
+      ],
       "postedDate": "2024-09-25"
     },
     {
@@ -190,7 +242,11 @@
         "max": 100000
       },
       "views": 310,
-      "skills": ["Network Security", "Cisco", "Troubleshooting"],
+      "skills": [
+        "Network Security",
+        "Cisco",
+        "Troubleshooting"
+      ],
       "postedDate": "2024-09-27"
     },
     {
@@ -204,7 +260,11 @@
         "max": 75000
       },
       "views": 280,
-      "skills": ["Content Strategy", "SEO", "Social Media Management"],
+      "skills": [
+        "Content Strategy",
+        "SEO",
+        "Social Media Management"
+      ],
       "postedDate": "2024-09-29"
     },
     {
@@ -218,7 +278,11 @@
         "max": 120000
       },
       "views": 520,
-      "skills": ["Project Planning", "Team Management", "Budgeting"],
+      "skills": [
+        "Project Planning",
+        "Team Management",
+        "Budgeting"
+      ],
       "postedDate": "2024-10-01"
     },
     {
@@ -232,7 +296,11 @@
         "max": 140000
       },
       "views": 670,
-      "skills": ["iOS", "Android", "React Native"],
+      "skills": [
+        "iOS",
+        "Android",
+        "React Native"
+      ],
       "postedDate": "2024-10-03"
     },
     {
@@ -246,7 +314,11 @@
         "max": 85000
       },
       "views": 230,
-      "skills": ["Bookkeeping", "Tax Preparation", "Financial Reporting"],
+      "skills": [
+        "Bookkeeping",
+        "Tax Preparation",
+        "Financial Reporting"
+      ],
       "postedDate": "2024-10-05"
     },
     {
@@ -260,7 +332,11 @@
         "max": 95000
       },
       "views": 410,
-      "skills": ["Account Management", "SaaS", "Customer Retention"],
+      "skills": [
+        "Account Management",
+        "SaaS",
+        "Customer Retention"
+      ],
       "postedDate": "2024-10-07"
     },
     {
@@ -274,7 +350,11 @@
         "max": 90000
       },
       "views": 580,
-      "skills": ["SQL", "Python", "Data Visualization"],
+      "skills": [
+        "SQL",
+        "Python",
+        "Data Visualization"
+      ],
       "postedDate": "2024-10-09"
     },
     {
@@ -288,7 +368,11 @@
         "max": 75000
       },
       "views": 340,
-      "skills": ["Social Media Platforms", "Content Creation", "Analytics"],
+      "skills": [
+        "Social Media Platforms",
+        "Content Creation",
+        "Analytics"
+      ],
       "postedDate": "2024-10-11"
     },
     {
@@ -302,7 +386,11 @@
         "max": 110000
       },
       "views": 290,
-      "skills": ["Systems Analysis", "Business Process Improvement", "IT Infrastructure"],
+      "skills": [
+        "Systems Analysis",
+        "Business Process Improvement",
+        "IT Infrastructure"
+      ],
       "postedDate": "2024-10-13"
     },
     {
@@ -316,7 +404,11 @@
         "max": 95000
       },
       "views": 180,
-      "skills": ["Technical Documentation", "Information Architecture", "API Documentation"],
+      "skills": [
+        "Technical Documentation",
+        "Information Architecture",
+        "API Documentation"
+      ],
       "postedDate": "2024-10-15"
     },
     {
@@ -330,7 +422,11 @@
         "max": 120000
       },
       "views": 260,
-      "skills": ["Process Optimization", "Team Leadership", "Supply Chain Management"],
+      "skills": [
+        "Process Optimization",
+        "Team Leadership",
+        "Supply Chain Management"
+      ],
       "postedDate": "2024-10-17"
     },
     {
@@ -344,7 +440,11 @@
         "max": 130000
       },
       "views": 720,
-      "skills": ["React", "Vue.js", "CSS3"],
+      "skills": [
+        "React",
+        "Vue.js",
+        "CSS3"
+      ],
       "postedDate": "2024-10-19"
     },
     {
@@ -358,7 +458,11 @@
         "max": 90000
       },
       "views": 240,
-      "skills": ["Test Planning", "Automated Testing", "Bug Tracking"],
+      "skills": [
+        "Test Planning",
+        "Automated Testing",
+        "Bug Tracking"
+      ],
       "postedDate": "2024-10-21"
     },
     {
@@ -372,7 +476,11 @@
         "max": 85000
       },
       "views": 190,
-      "skills": ["Media Relations", "Crisis Management", "Press Release Writing"],
+      "skills": [
+        "Media Relations",
+        "Crisis Management",
+        "Press Release Writing"
+      ],
       "postedDate": "2024-10-23"
     },
     {
@@ -386,7 +494,11 @@
         "max": 135000
       },
       "views": 480,
-      "skills": ["Network Security", "Threat Analysis", "Incident Response"],
+      "skills": [
+        "Network Security",
+        "Threat Analysis",
+        "Incident Response"
+      ],
       "postedDate": "2024-10-25"
     },
     {
@@ -400,7 +512,11 @@
         "max": 105000
       },
       "views": 320,
-      "skills": ["E-commerce Platforms", "Digital Marketing", "Inventory Management"],
+      "skills": [
+        "E-commerce Platforms",
+        "Digital Marketing",
+        "Inventory Management"
+      ],
       "postedDate": "2024-10-27"
     },
     {
@@ -414,8 +530,44 @@
         "max": 180000
       },
       "views": 850,
-      "skills": ["TensorFlow", "PyTorch", "Natural Language Processing"],
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "Natural Language Processing"
+      ],
       "postedDate": "2024-10-29"
+    },
+    {
+      "title": "12312",
+      "company": "iknkjnkj",
+      "location": "knjn",
+      "description": "bjhb",
+      "type": "Contract",
+      "postedDate": "2002-12-12",
+      "salaryRange": {
+        "min": 123,
+        "max": 3213
+      },
+      "skills": [
+        "asdsa"
+      ],
+      "id": "lwDNGaI"
+    },
+    {
+      "title": "asdaj",
+      "company": "n",
+      "location": "jkn",
+      "description": "jn",
+      "type": "Full-time",
+      "postedDate": "13123-02-12",
+      "salaryRange": {
+        "min": 123120,
+        "max": 3213210
+      },
+      "skills": [
+        "n"
+      ],
+      "id": "sFq2qAO"
     }
   ],
   "locations": [

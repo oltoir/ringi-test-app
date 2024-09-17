@@ -1,4 +1,4 @@
-import { VacanciesList } from '@/widgets/vacancies-list'
+import { VacanciesList } from '@/widgets'
 
 function JobsPage() {
     return (

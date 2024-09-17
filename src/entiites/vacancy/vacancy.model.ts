@@ -7,3 +7,9 @@ export const getVacancy = (id: string): Promise<AxiosResponse<VacancyType>> => {
 
     return request.get(url)
 }
+
+export const postVacancy = (vacancy: VacancyType) => {
+    const url = `/vacancies`
+
+    return request.post(url, vacancy)
+}

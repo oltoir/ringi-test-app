@@ -3,6 +3,7 @@ import { Layout } from '../layout'
 import MainPage from '@/pages/main'
 import JobsPage from '@/pages/jobs'
 import AddVacancyPage from '@/pages/add-vacancy'
+import StatsPage from '@/pages/stats'
 
 const routes = [
     {
@@ -20,6 +21,10 @@ const routes = [
             {
                 path: 'add-vacancy',
                 element: <AddVacancyPage />,
+            },
+            {
+                path: 'stats',
+                element: <StatsPage />,
             },
         ],
     },
