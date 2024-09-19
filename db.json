@@ -538,36 +538,22 @@
       "postedDate": "2024-10-29"
     },
     {
-      "title": "12312",
-      "company": "iknkjnkj",
-      "location": "knjn",
-      "description": "bjhb",
-      "type": "Contract",
-      "postedDate": "2002-12-12",
-      "salaryRange": {
-        "min": 123,
-        "max": 3213
-      },
-      "skills": [
-        "asdsa"
-      ],
-      "id": "lwDNGaI"
-    },
-    {
-      "title": "asdaj",
-      "company": "n",
-      "location": "jkn",
-      "description": "jn",
+      "title": "asdsas",
+      "company": "jkbjhkbjhbj",
+      "location": "bjhbjhbjh",
+      "description": "bjhbjhbjhbjh",
       "type": "Full-time",
-      "postedDate": "13123-02-12",
+      "postedDate": "2024-09-13",
       "salaryRange": {
-        "min": 123120,
-        "max": 3213210
+        "min": 1,
+        "max": 2
       },
       "skills": [
-        "n"
+        "React",
+        " Angular",
+        " Hello"
       ],
-      "id": "sFq2qAO"
+      "id": "7to7WGk"
     }
   ],
   "locations": [

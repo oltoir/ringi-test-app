@@ -52,6 +52,7 @@ export function VacanciesList() {
         const newSearchParams = new URLSearchParams(searchParams)
         if (debouncedSearchTerm) {
             newSearchParams.set('search', debouncedSearchTerm)
+            newSearchParams.set('page', '1')
         } else {
             newSearchParams.delete('search')
         }
